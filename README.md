@@ -9,7 +9,7 @@ Database using MySQL
  3.change file koneksi.php at /admin_section  
  4.run your local server  
  5.open browser and run localhost  
- 6.admin page was at /admin_section 
+ 6.admin page was at /admin_section  
 
 ## Whats included ##  
 
